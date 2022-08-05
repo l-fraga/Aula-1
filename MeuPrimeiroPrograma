@@ -1,0 +1,16 @@
+# Aula-1
+MeuPrimeiroPrograma
+public class MeuPrimeiroPrograma{
+    public static void main(String[] args){
+        System.out.println("Este eh o meu primeiro programa...");
+    }
+        /*
+         Este eh um comentario de mais linhas.
+         
+            existem tres comandos de impressao:
+            - System.out.print
+            - System.out.println
+            - System.out.printf
+         */;
+       
+}
